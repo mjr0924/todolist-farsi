@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 body{
     background: #b350ae;
     color: white;
@@ -58,7 +59,7 @@ form button:hover{
 }
 .trash-btn,.complete-btn{
     color: white;
-    background: #F0D14D;
+    background: #F0D14E;
     padding: 1rem;
     cursor: pointer;
     font-size: 1rem;
